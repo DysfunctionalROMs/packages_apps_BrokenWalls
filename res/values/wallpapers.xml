@@ -37,6 +37,7 @@
 		<item>sword_glow_1</item>
 		<item>girl_1</item>
 		<item>fight_1</item>
+		<item>fight_2</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -50,6 +51,7 @@
 		<item>SpaceCaker :: Anime</item>
 		<item>SpaceCaker :: Anime</item>
 		<item>SpaceCaker :: Anime</item>		
+		<item>SpaceCaker :: Anime</item>
 		<item>SpaceCaker :: Anime</item>
 		<item>SpaceCaker :: Anime</item>
 		<item>SpaceCaker :: Anime</item>

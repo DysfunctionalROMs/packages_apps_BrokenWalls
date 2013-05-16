@@ -17,7 +17,7 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-		<item>Space_nime_1</item>
+		<item>space_nime_1</item>
 		<item>space_nime_2</item>
 		<item>space_nime_3</item>
 		<item>space_nime_4</item>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2009 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ -->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+		<item>Space_nime_1</item>
+		<item>space_nime_2</item>
+		<item>space_nime_3</item>
+		<item>space_nime_4</item>
+		<item>space_nime_5</item>
+		<item>space_nime_6</item>
+		<item>space_nime_7</item>
+		<item>space_nime_8</item>
+		<item>space_nime_9</item>
+		<item>spanime_1</item>
+		<item>spanime_2</item>		
+		<item>hatsune_1</item>
+		<item>riko_1</item>
+		<item>striped_1</item>
+		<item>matrix_1</item>
+		<item>bmw_anime_1</item>
+		<item>vocamiku_1</item>
+		<item>sword_glow_1</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>
+        <item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>		
+		<item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: Anime</item>
+    </string-array>
+</resources>

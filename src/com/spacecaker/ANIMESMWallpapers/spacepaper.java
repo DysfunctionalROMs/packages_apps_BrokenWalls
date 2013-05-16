@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.spacecaker.spacematzanime;
+package com.spacecaker.ANIMESMWallpapers;
 
 import android.app.Activity;
 import android.content.res.Resources;

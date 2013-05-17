@@ -1,7 +1,7 @@
 android_packages_apps_ANIMESMWallpapers
 =======================================
 
-Wallpapers chooser for matz
+Wallpapers chooser for Anime
 
 Made by Spacecaker
 

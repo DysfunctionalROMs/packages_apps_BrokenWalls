@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.spacecaker.ANIMESMWallpapers;
+package com.spacecaker.AnimeWallpapers;
 
 import android.app.Activity;
 import android.content.res.Resources;

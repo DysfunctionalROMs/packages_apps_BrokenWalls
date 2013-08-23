@@ -38,29 +38,35 @@
 		<item>girl_1</item>
 		<item>fight_1</item>
 		<item>fight_2</item>
+		<item>code_geas_2</item>
+		<item>codegeas_1</item>
+		<item>lelouch_1</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-                <item>SpaceCaker :: Anime</item>
+        <item>SpaceCaker :: Anime1</item>
+		<item>SpaceCaker :: Anime2</item>
+		<item>SpaceCaker :: Anime3</item>
+		<item>SpaceCaker :: Anime4</item>
+        <item>SpaceCaker :: Anime5</item>
+		<item>SpaceCaker :: Anime6</item>
+		<item>SpaceCaker :: Anime7</item>
+		<item>SpaceCaker :: Anime8</item>
+		<item>SpaceCaker :: Anime9</item>
+		<item>SpaceCaker :: Anime10</item>		
+		<item>SpaceCaker :: Anime11</item>
+		<item>SpaceCaker :: Anime12</item>
+		<item>SpaceCaker :: Anime13</item>
+		<item>SpaceCaker :: Anime14</item>
+		<item>SpaceCaker :: Anime15</item>
+		<item>SpaceCaker :: Anime16</item>
+		<item>SpaceCaker :: Anime17</item>
+		<item>SpaceCaker :: Anime18</item>
+		<item>SpaceCaker :: Anime19</item>
+		<item>SpaceCaker :: Anime20</item>
 		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-                <item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>		
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: Anime</item>
+		<item>SpaceCaker :: CodeGeas</item>
+		<item>SpaceCaker :: CodeGeas2</item>
+		<item>SpaceCaker :: CodeGeas3</item>		
     </string-array>
 </resources>

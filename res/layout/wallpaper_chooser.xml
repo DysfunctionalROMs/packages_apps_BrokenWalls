@@ -23,27 +23,31 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
 
-    <ImageView android:id="@+id/wallpaper"
+    <ImageView
+        android:id="@+id/wallpaper"
         android:layout_width="fill_parent"
         android:layout_height="0dip"
-        android:layout_weight="1.0"
+        android:layout_weight="0.99"
         android:scaleType="fitCenter" />
 
-    <TextView android:id="@+id/info"
+    <TextView
+        android:id="@+id/info"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:textStyle="bold"
-        android:gravity="center" />
+        android:layout_weight="0.03"
+        android:gravity="center"
+        android:textStyle="bold" />
 
     <Gallery android:id="@+id/gallery"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
 
-    <Button android:id="@+id/set"
-        android:layout_width="wrap_content"
+    <Button
+        android:id="@+id/set"
+        android:layout_width="376dp"
         android:layout_height="wrap_content"
-        android:text="@string/set_wallpaper"
-        android:layout_gravity="center_horizontal" />
+        android:layout_gravity="center_horizontal"
+        android:text="@string/set_wallpaper" />
 
 </LinearLayout>
 

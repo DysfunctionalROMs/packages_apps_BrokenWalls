@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="space_name">Anime-Wallpapers</string>
-<string name="space_label">Anime-Wallpapers</string>
+<string name="broken_name">BrokenWalls</string>
+<string name="broken_label">BrokenWalls</string>
 <string name="set_wallpaper">Set wallpaper</string>
 </resources>

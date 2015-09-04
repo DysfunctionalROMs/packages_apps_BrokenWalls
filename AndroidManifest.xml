@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="com.spacecaker.AnimeWallpapers">
+      package="com.broken.BrokenWalls">
 
       <uses-permission android:name="android.permission.SET_WALLPAPER" />
 
-    <application android:label="@string/space_name" android:icon="@drawable/spacecaker_wallpaperchooser">
+    <application android:label="@string/broken_name" android:icon="@drawable/broken_wallpaperchooser">
         <activity
-            android:name="spacepaper"
-            android:label="@string/space_label"
-            android:icon="@drawable/spacecaker_wallpaperchooser"
+            android:name="brokenwalls"
+            android:label="@string/broken_label"
+            android:icon="@drawable/broken_wallpaperchooser"
             android:screenOrientation="nosensor"
             android:finishOnCloseSystemDialogs="true">
             <intent-filter>

@@ -17,56 +17,81 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-		<item>space_nime_1</item>
-		<item>space_nime_2</item>
-		<item>space_nime_3</item>
-		<item>space_nime_4</item>
-		<item>space_nime_5</item>
-		<item>space_nime_6</item>
-		<item>space_nime_7</item>
-		<item>space_nime_8</item>
-		<item>space_nime_9</item>
-		<item>spanime_1</item>
-		<item>spanime_2</item>		
-		<item>hatsune_1</item>
-		<item>riko_1</item>
-		<item>striped_1</item>
-		<item>matrix_1</item>
-		<item>bmw_anime_1</item>
-		<item>vocamiku_1</item>
-		<item>sword_glow_1</item>
-		<item>girl_1</item>
-		<item>fight_1</item>
-		<item>fight_2</item>
-		<item>code_geas_2</item>
-		<item>codegeas_1</item>
-		<item>lelouch_1</item>
+		<item>broken_01</item>
+		<item>broken_02</item>
+		<item>broken_03</item>
+		<item>broken_04</item>
+		<item>broken_05</item>
+		<item>broken_06</item>
+		<item>broken_07</item>
+		<item>broken_08</item>
+		<item>broken_09</item>
+		<item>broken_10</item>
+		<item>broken_11</item>		
+		<item>broken_12</item>
+		<item>broken_13</item>
+		<item>broken_14</item>
+		<item>broken_15</item>
+		<item>broken_16</item>
+		<item>broken_17</item>
+		<item>broken_18</item>
+		<item>broken_19</item>
+		<item>broken_20</item>
+		<item>broken_21</item>
+		<item>broken_22</item>
+		<item>broken_23</item>
+		<item>broken_24</item>
+		<item>broken_25</item>
+		<item>broken_26</item>
+		<item>broken_27</item>
+		<item>broken_28</item>
+		<item>broken_29</item>
+		<item>broken_30</item>
+		<item>broken_31</item>
+		<item>broken_32</item>
+		<item>broken_33</item>
+		<item>broken_34</item>
+		<item>broken_35</item>
+		<item>broken_36</item>
+		<item></item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>SpaceCaker :: Anime1</item>
-		<item>SpaceCaker :: Anime2</item>
-		<item>SpaceCaker :: Anime3</item>
-		<item>SpaceCaker :: Anime4</item>
-        <item>SpaceCaker :: Anime5</item>
-		<item>SpaceCaker :: Anime6</item>
-		<item>SpaceCaker :: Anime7</item>
-		<item>SpaceCaker :: Anime8</item>
-		<item>SpaceCaker :: Anime9</item>
-		<item>SpaceCaker :: Anime10</item>		
-		<item>SpaceCaker :: Anime11</item>
-		<item>SpaceCaker :: Anime12</item>
-		<item>SpaceCaker :: Anime13</item>
-		<item>SpaceCaker :: Anime14</item>
-		<item>SpaceCaker :: Anime15</item>
-		<item>SpaceCaker :: Anime16</item>
-		<item>SpaceCaker :: Anime17</item>
-		<item>SpaceCaker :: Anime18</item>
-		<item>SpaceCaker :: Anime19</item>
-		<item>SpaceCaker :: Anime20</item>
-		<item>SpaceCaker :: Anime</item>
-		<item>SpaceCaker :: CodeGeas</item>
-		<item>SpaceCaker :: CodeGeas2</item>
-		<item>SpaceCaker :: CodeGeas3</item>		
+        <item>BrokenWall :: Wall1</item>
+		<item>BrokenWall :: Wall2</item>
+		<item>BrokenWall :: Wall3</item>
+		<item>BrokenWall :: Wall4</item>
+		<item>BrokenWall :: Wall5</item>
+		<item>BrokenWall :: Wall6</item>
+		<item>BrokenWall :: Wall7</item>
+		<item>BrokenWall :: Wall8</item>
+		<item>BrokenWall :: Wall9</item>
+		<item>BrokenWall :: Wall10</item>		
+		<item>BrokenWall :: Wall11</item>
+		<item>BrokenWall :: Wall12</item>
+		<item>BrokenWall :: Wall13</item>
+		<item>BrokenWall :: Wall14</item>
+		<item>BrokenWall :: Wall15</item>
+		<item>BrokenWall :: Wall16</item>
+		<item>BrokenWall :: Wall17</item>
+		<item>BrokenWall :: Wall18</item>
+		<item>BrokenWall :: Wall19</item>
+		<item>BrokenWall :: Wall20</item>
+		<item>BrokenWall :: Wall21</item>
+		<item>BrokenWall :: Wall22</item>
+		<item>BrokenWall :: Wall23</item>
+		<item>BrokenWall :: Wall24</item>
+		<item>BrokenWall :: Wall25</item>
+		<item>BrokenWall :: Wall26</item>
+		<item>BrokenWall :: Wall27</item>
+		<item>BrokenWall :: Wall28</item>
+		<item>BrokenWall :: Wall29</item>
+		<item>BrokenWall :: Wall30</item>
+		<item>BrokenWall :: Wall31</item>
+		<item>BrokenWall :: Wall32</item>
+		<item>BrokenWall :: Wall33</item>
+		<item>BrokenWall :: Wall34</item>
+		<item>BrokenWall :: Wall35</item>
+		<item>BrokenWall :: Wall36</item>		
     </string-array>
 </resources>

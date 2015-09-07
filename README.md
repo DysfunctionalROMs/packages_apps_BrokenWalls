@@ -19,5 +19,5 @@ and under
 
 < string-array name="info" translatable="false" >
 
-add new < item >&&&&&&< / item > line and change the &&&&&& to the creator of wallpaper or adder ( SpaceCaker :: Phoenix ) that becomes ->
+add new < item >&&&&&&< / item > line and change the &&&&&& to the creator of wallpaper or adder ( <creator> :: <wall> ) that becomes ->
 < item >BrokenOS :: Wall(number)< / item >

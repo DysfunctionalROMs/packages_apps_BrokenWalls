@@ -53,7 +53,36 @@
 		<item>broken_34</item>
 		<item>broken_35</item>
 		<item>broken_36</item>
-		<item></item>
+		<item>broken_37</item>
+		<item>broken_38</item>
+		<item>broken_39</item>
+		<item>broken_40</item>
+		<item>broken_41</item>
+		<item>broken_42</item>
+		<item>broken_43</item>
+		<item>broken_44</item>
+		<item>broken_45</item>
+		<item>broken_46</item>
+		<item>broken_47</item>		
+		<item>broken_48</item>
+		<item>broken_49</item>
+		<item>broken_50</item>
+		<item>broken_51</item>
+		<item>broken_52</item>
+		<item>broken_53</item>
+		<item>broken_54</item>
+		<item>broken_55</item>
+		<item>broken_56</item>
+		<item>broken_57</item>
+		<item>broken_58</item>
+		<item>broken_59</item>
+		<item>broken_60</item>
+		<item>broken_61</item>
+		<item>broken_62</item>
+		<item>broken_63</item>
+		<item>broken_64</item>
+		<item>broken_65</item>
+		<item>broken_66</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -92,6 +121,36 @@
 		<item>BrokenWall :: Wall33</item>
 		<item>BrokenWall :: Wall34</item>
 		<item>BrokenWall :: Wall35</item>
-		<item>BrokenWall :: Wall36</item>		
+		<item>BrokenWall :: Wall36</item>
+		<item>BrokenWall :: Wall37</item>
+		<item>BrokenWall :: Wall38</item>
+		<item>BrokenWall :: Wall39</item>
+		<item>BrokenWall :: Wall40</item>
+		<item>BrokenWall :: Wall41</item>
+		<item>BrokenWall :: Wall42</item>
+		<item>BrokenWall :: Wall43</item>
+		<item>BrokenWall :: Wall44</item>
+		<item>BrokenWall :: Wall45</item>
+		<item>BrokenWall :: Wall46</item>
+		<item>BrokenWall :: Wall47</item>
+		<item>BrokenWall :: Wall48</item>
+		<item>BrokenWall :: Wall49</item>
+		<item>BrokenWall :: Wall50</item>
+		<item>BrokenWall :: Wall51</item>
+		<item>BrokenWall :: Wall52</item>
+		<item>BrokenWall :: Wall53</item>
+		<item>BrokenWall :: Wall54</item>
+		<item>BrokenWall :: Wall55</item>
+		<item>BrokenWall :: Wall56</item>
+		<item>BrokenWall :: Wall57</item>
+		<item>BrokenWall :: Wall58</item>
+		<item>BrokenWall :: Wall59</item>
+		<item>BrokenWall :: Wall60</item>
+		<item>BrokenWall :: Wall61</item>
+		<item>BrokenWall :: Wall62</item>
+		<item>BrokenWall :: Wall63</item>
+		<item>BrokenWall :: Wall64</item>
+		<item>BrokenWall :: Wall65</item>
+		<item>BrokenWall :: Wall66</item>
     </string-array>
 </resources>
